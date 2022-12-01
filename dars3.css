@@ -1,0 +1,64 @@
+.container{
+    border: solid 5px black;
+    width: 300px;
+    height:450px;
+border-radius: 15px;
+
+}
+
+.rasm{
+border-radius: 18%;
+}
+
+.post{
+    color:black;
+    margin-top: 30px;
+
+}
+h1{
+    text-align: center;
+}
+
+.states{
+    display: flex;
+    background-color: #e30c67;
+    
+    border-radius: 13px;
+    margin-top:22px;
+    height: 55px;
+}
+.a{
+    width: 100px;
+    text-align: center;
+ }
+ .s{
+    width: 100px;
+    text-align: center;
+ }
+ .d{
+    width: 100px;
+    text-align: center;
+ }
+ .sana{
+color: #e30c67;
+margin-left:99px ;
+
+ }
+ body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-evenly;
+ }
+ .container:hover{
+    transition: 1s;
+    transform: scale(1.2);
+ }
+
+ img{
+    border-radius: 18px;
+ }
+
+ .container{
+   border: #e30c67;
+ }
